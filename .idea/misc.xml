@@ -5,7 +5,9 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.14114583333333333" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_second_activity.xml" value="0.21614583333333334" />
         <entry key="app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/second_activity.xml" value="0.1" />
         <entry key="app/src/main/res/menu/menu_main.xml" value="0.2703125" />
       </map>
     </option>

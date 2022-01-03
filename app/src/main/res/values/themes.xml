@@ -21,5 +21,7 @@
 
     <style name="Theme.ToolBarThemingTestApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
+    <style name="Theme.ToolBarThemingTestApp.AppBarOverlay.Light" parent="ThemeOverlay.AppCompat.ActionBar" />
+
     <style name="Theme.ToolBarThemingTestApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
