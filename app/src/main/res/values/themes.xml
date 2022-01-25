@@ -23,5 +23,7 @@
 
     <style name="Theme.ToolBarThemingTestApp.AppBarOverlay.Light" parent="ThemeOverlay.AppCompat.ActionBar" />
 
+    <style name="Theme.ToolBarThemingTestApp.AppBarOverlay.Jeff" parent="ThemeOverlay.AppCompat.ActionBar" />
+
     <style name="Theme.ToolBarThemingTestApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

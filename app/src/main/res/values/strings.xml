@@ -8,8 +8,8 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">This activity is using an AppBarLayout style of: \n\n ThemeOverlay.AppCompat.Dark.ActionBar</string>
+    <string name="hello_first_fragment">This activity is using an AppBarLayout style of: \n\n ThemeOverlay AppCompat Dark ActionBar</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
-    <string name="second_activity">This activity is using an AppBarLayout style of: \n\n ThemeOverlay.AppCompat.ActionBar</string>
+    <string name="second_activity">This activity is using an AppBarLayout style of: \n\n ThemeOverlay AppCompat ActionBar</string>
 </resources>
