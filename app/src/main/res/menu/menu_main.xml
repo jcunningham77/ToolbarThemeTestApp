@@ -12,4 +12,10 @@
         android:orderInCategory="200"
         android:title="@string/action_second_activity"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_third_activity"
+        android:orderInCategory="300"
+        android:title="@string/action_third_activity"
+        app:showAsAction="never" />
 </menu>

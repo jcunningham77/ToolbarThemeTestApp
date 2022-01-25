@@ -2,6 +2,7 @@
     <string name="app_name">ToolBar Theming Test App</string>
     <string name="action_settings">Settings</string>
     <string name="action_second_activity">Second Activity</string>
+    <string name="action_third_activity">Third Activity</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
@@ -12,4 +13,6 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
     <string name="second_activity">This activity is using an AppBarLayout style of: \n\n ThemeOverlay AppCompat ActionBar</string>
+
+    <string name="third_activity">This activity is using an Material Toolbar style of: \n\n Widget MaterialComponents Toolbar PrimarySurface</string>
 </resources>
